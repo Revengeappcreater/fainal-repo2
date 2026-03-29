@@ -1,0 +1,16 @@
+{
+  "name": "my-new-app",
+  "version": "1.0.0",
+  "description": "App built with Capacitor and Bootstrap",
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/android": "^6.0.0",
+    "bootstrap": "^5.3.3"
+  },
+  "scripts": {
+    "build": "echo 'No web build step needed' && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
